@@ -31,8 +31,7 @@ End-to-end Business Analyst portfolio project showcasing business case developme
 - [x] Repository created
 - [x] README completed
 - [x] Business Case completed
-- [ ] Project Charter
-- [ ] Stakeholder Analysis
+- [x] Stakeholder Analysis
 - [ ] Stakeholder Register
 - [ ] Requirements Gathering
 - [ ] Business Requirements Document (BRD)
