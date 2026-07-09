@@ -33,7 +33,7 @@ End-to-end Business Analyst portfolio project showcasing business case developme
 - [x] Business Case completed
 - [x] Stakeholder Analysis
 - [x] Stakeholder Interviews
-- [ ] Requirements Gathering
+- [x] Requirements Gathering
 - [ ] Business Requirements Document (BRD)
 - [ ] User Stories
 - [ ] Process Mapping (AS-IS / TO-BE)
