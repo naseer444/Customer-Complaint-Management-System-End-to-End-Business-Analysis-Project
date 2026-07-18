@@ -35,7 +35,7 @@ End-to-end Business Analyst portfolio project showcasing business case developme
 - [x] Stakeholder Interviews
 - [x] Requirements Gathering
 - [x] User Stories
-- [ ] Process Mapping (AS-IS / TO-BE)
+- [x] Process Mapping (AS-IS / TO-BE)
 - [ ] BPMN Diagram
 - [ ] Wireframes
 - [ ] ER Diagram
